@@ -8,4 +8,3 @@ but I could see breaking this out into a wiki or trello if it gets too big.
 
 I'm not interested in implementing premium users or admins right now. My first
 priority is getting a basic user CRUD operations working.
-
