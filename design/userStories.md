@@ -8,6 +8,12 @@
 * Practice Pal (Coach)
 * Administrator
 
+## Practice Plans
+
+* Practice Plan (parent object) has many
+* Practice Sessions has many
+* Session Tasks
+
 ## User Stories
 
 | Role          | Task                                            | Importance | Implemented |
